@@ -35,8 +35,8 @@ La base `tareas.db` y la tabla `usuarios` se crean automáticamente al iniciar e
 Requisitos: Python 3.9 o superior.
 
 ```powershell
-git clone https://github.com/SantiCuda/<repo>.git
-cd <repo>
+git clone https://github.com/SantiCuda/PFO2-programacion-redes.git
+cd PFO2-programacion-redes
 python -m venv venv
 venv\Scripts\activate          # Linux/Mac: source venv/bin/activate
 pip install -r requirements.txt
